@@ -1,0 +1,2 @@
+# Assesment_SupervisedLearning_Marietta
+assesment of supervised learning
